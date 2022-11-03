@@ -1,0 +1,14 @@
+.topic-div{
+    display: flex;
+    flex-direction: column;
+    width:30%;
+    margin:auto
+}
+.topic .input{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.input{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}

@@ -48,3 +48,7 @@ module.exports.login = async (req,res)=>{
     console.log('not authenticated')
     return res.redirect('back')
 }
+
+module.exports.createTopic = (req,res)=>{
+    return res.render('add_topic')
+}
